@@ -12,5 +12,6 @@
   2.**无法**根据目的平均分给出一个恰当的grading rubric， 还需要继续研究如何让程序自动生成grading rubric策略。
   
 ## 不足与应对策略
-   1. **（solved）**我用pyinstaller压制成的.exe文件实在太大（200M+），不方便将作业生成程序以邮件形式分发。
-  **（方法）** *重新写了微信小程序*[入口]（https://github.com/djzts/BJTU_wehcat_miniprogram）*这样学生们就可以直接下载已经生成好的作业，不用同学安装EXE/DMG生成作业了*
+   1.*  **（solved）** 我用pyinstaller压制成的.exe文件实在太大（200M+），不方便将作业生成程序以邮件形式分发。
+    
+        **（方法）** 重新写了微信小程序[入口]（https://github.com/djzts/BJTU_wehcat_miniprogram）这样学生们就可以直接下载已经生成好的作业，不用同学安装EXE/DMG生成作业了
